@@ -1,5 +1,4 @@
 
-Here's a well-structured "About" section you can use for your GitHub repository showcasing your Homestay Testing Project:
 
 About the Project: Homestay Testing
 This project involves end-to-end manual and automated testing of a web-based application for a homestay platform. The application allows guests to book homestays, caretakers to manage bookings, and house owners to view guest details and booking records. As a QA tester, I focused on ensuring the platform's functionality, usability, and reliability through meticulous planning and execution of testing activities.
